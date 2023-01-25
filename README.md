@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz] (https://kodluyoruz.org) Swift eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.hmtl barındırıyor
 
-##Installation
+## Installation
 
 ----------
 
@@ -10,7 +10,7 @@ Bu repo [Kodluyoruz] (https://kodluyoruz.org) Swift eğitiminde oluşturduğumuz
 git clone https://github.com/Kdrr32/kodluyoruzilkrepo.git
 ```
 
-##Usage
+## Usage
 
 ----------
 Linux için:
@@ -19,12 +19,12 @@ cd kodluyoruz.org
 code .
 ```
 
-##Contrubuting
+## Contrubuting
 
 -------
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neeyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##Lisence
+## License
 
 --------
-[MIT] (https://chooselicense.com/license/mit/)
+[MIT](https://chooselicense.com/license/mit/)
